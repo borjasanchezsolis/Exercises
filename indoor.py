@@ -1,0 +1,1 @@
+print(input('Talk softer, what did you want to say? ').lower())
